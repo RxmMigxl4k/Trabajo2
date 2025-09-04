@@ -1,0 +1,11 @@
+#include <iostream>
+int a= 6;
+int b= 8;
+int r= 0;
+int main()
+{
+
+    int r=a+b;
+    std::cout << "la suma es" << r;
+    return 0;
+}
