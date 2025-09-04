@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int a= 6;
+int b= 8;
+int r= 0;
+int suma()
+{
+
+    int r=a+b;
+    cout << "la suma es" << r;
+}    
+    int main()
+    {
+        suma();
+    return 0;
+}
